@@ -2,7 +2,7 @@
 Test project
 
 Commands:
-install: npm i
-run: npx ts-node index
+install: "npm i",
+run: "npx ts-node index"
 
 open "http://localhost:3003"
